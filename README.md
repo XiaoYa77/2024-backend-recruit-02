@@ -1,4 +1,4 @@
-# 防手残的网络key-value数据库
+# 简易网络key-value数据库
 ## 💻从源代码构建 How to build
 ### 如何运行？   
 • 克隆此仓库   
