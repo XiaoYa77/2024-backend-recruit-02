@@ -1,5 +1,5 @@
 # 防手残的网络key-value数据库
-## 💻从源代码构建 How to build
+## Unicode:U+1F4BB 从源代码构建 How to build
 ### 如何运行？   
 • 克隆此仓库   
 • 安装 eclipse 或 IntelliJ IDEA 2024.3.5   
